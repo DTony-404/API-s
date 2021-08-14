@@ -365,7 +365,7 @@
         {
             "id":52,
             "product":"Jordan One Take II",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8H8tmSPuHiNOHkgJ7zGSM5sFJB_iO8q8Wow&usqp=CAU",
+            "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dd3b5199-5b32-450e-ae78-9ac34a5f19ee/jordan-one-take-ii-zapatillas-de-baloncesto-rHXwwQ.png",
             "price":100,
             "Description": "Russell Westbrook backs up his daring attitude with a fast, aggressive style of play and results that rank him among the best in the league. His new Jordan One Take II embodies this provocative air and the speed of it. Colors, textures and design lines embody Russ' character both on and off the court."
         },
@@ -399,14 +399,14 @@
         },
         {
             "id":57,
-            "product":"Air Max 90 Unlocked By you",
-            "image":"https://www.nike.com/es/u/custom-nike-air-max-90-unlocked-by-you-10001062/4766942706",
+            "product":"Air Max 90 Unlocked",
+            "image":"https://www.nike.com/es/u/custom-nike-air-max-90-unlocked-by-you-10001065/3219713590",
             "price":179,
             "Description": "The Nike Air Max 90 Unlocked By You incorporates all the elements of the classics with a simple design experience that puts you in control of every carefully crafted detail. They combine performance and sophistication for a luxurious ride."
         },
         {
             "id":58,
-            "product":"Lebron 18 Low x Mimi plange",
+            "product":"Lebron 18 Low x Mimi",
             "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99f76872-2836-4649-86e3-8e357ef07031/lebron-18-low-mimi-plange-higher-learning-zapatillas-de-baloncesto-GFtSlc.png",
             "price":152,
             "Description": "Anti-fashion visionary Mimi Plange follows her own rules and creates sleek, spacious, and completely unexpected designs that hit all the sticks of culture. The LeBron 18 Low x Mimi Plange 'Higher Learning' are her first varsity-inspired sneaker. and represent a powerful symbol of sport and college. The LeBron 18 Low colors feature mustard, burgundy, pink and crimson tones that are not mixed with a varsity-inspired striped trim on the sides. 'Just a Kid from Akron', the LeBron spirit lion motto and mascot are inspired by the importance of education and the power of sport to transform lives."
@@ -420,8 +420,8 @@
         },
         {
             "id":60,
-            "product":"Nike ACG Mountain Fly Low",
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8H8tmSPuHiNOHkgJ7zGSM5sFJB_iO8q8Wow&usqp=CAU",
+            "product":"Nike ACG Mountain Fly",
+            "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/85ff2ce1-bb85-47c3-9a99-4607571a3d08/acg-mountain-fly-low-zapatillas-QJxKQT.png",
             "price":180,
             "Description": "These aren't your parents' typical hiking boots. The Nike ACG Mountain Fly Low is ready for anything, whether it's at home, in the city, in the desert, in a canyon, or in the mountains. They feature an outsole. sticky rubber for mountaineering-inspired traction. Soft React foam in the midsole provides comfort whether you're walking around your neighborhood or climbing a tree."
         }
