@@ -125,121 +125,121 @@
     "Sansung":[
         {
             "id":21,
-            "product":"Sansung galaxy Note 20 Ultra",
+            "product":"Samsung Note 20 Ultra",
             "image":"https://m.media-amazon.com/images/I/81AT+Flc+EL._AC_SX679_.jpg",
             "price":700
         },
         {
             "id":22,
-            "product":"Sansung galaxy S21",
+            "product":"Samsung galaxy S21",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7Wp1SAA7eKCnZNEGpskg7MGMmJnicdA-zYsqxB6E1alL5MGTezSedEVJ4guQKwPg7OM&usqp=CAU",
             "price":900
         },
         {
             "id":23,
-            "product":"Sansung A10S",
+            "product":"Samsung A10S",
             "image":"http://imagenes.deltron.com.pe/images/productos/on-line/items/large/tc/sm/tcsma107tblk_1.jpg",
             "price":800
         },
         {
             "id":24,
-            "product":"Sansung galaxy A31",
+            "product":"Samsung galaxy A31",
             "image":"https://waritech.com/4501-large_default/smartphone-samsung-galaxy-a32-6-4-1080x2400-android-11-lte-dual-sim-desbloqueado.jpg",
             "price":700
         },
         {
             "id":25,
-            "product":"Sansung galaxy A51",
+            "product":"Samsung galaxy A51",
             "image":"https://www.teamequipalia.es/4788-thickbox_default/samsung-galaxy-a51.jpg",
             "price":750
         },
         {
             "id":26,
-            "product":"Sansung galaxy A71",
+            "product":"Samsung galaxy A71",
             "image":"https://m.media-amazon.com/images/I/418BjeZCuCL.jpg",
             "price":720
         },
         {
             "id":27,
-            "product":"Sansung galaxy S20 FE",
+            "product":"Samsung galaxy S20 FE",
             "image":"https://depor.com/resizer/UnHTM4JSIKQiz8wwTToPh3eA7cg=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KNNA5XUPCRFYBKQX7GF7MYNURE.jpg",
             "price":870
         },
         {
             "id":28,
-            "product":"Sansung galaxy A30S",
+            "product":"Samsung galaxy A30S",
             "image":"https://resources.sears.com.mx/medios-plazavip/s2/10944/1348518/5e6becb35145c-galaxya30sblancopresentacion_1-1600x1600.jpg",
             "price":750
         },
         {
             "id":29,
-            "product":"Sansung galaxy Z Fold 3",
+            "product":"Samsung galaxy Z Fold 3",
             "image":"https://d500.epimg.net/cincodias/imagenes/2021/07/26/smartphones/1627301478_436427_1627302174_noticia_normal.jpg",
             "price":1290
         },
         {
             "id":30,
-            "product":"Sansung galaxy Z Fold 2",
+            "product":"Samsung galaxy Z Fold 2",
             "image":"https://depor.com/resizer/vvdx0qisFHRE3VU0rVbXp_6JNLA=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7HK4QYKZKNAY3LZZTKSN2CAZ7M.jpg",
             "price":1100
         },
         {
             "id":31,
-            "product":"Sansung galaxy Z Fold 1",
+            "product":"Samsung galaxy Z Fold 1",
             "image":"https://i2.wp.com/hipertextual.com/wp-content/uploads/2019/09/hipertextual-probamos-nueva-mejorada-version-samsung-galaxy-fold-mejores-acabados-mismas-sensaciones-2019611246.jpg?fit=1200%2C800&ssl=1",
             "price":900
         },
         {
             "id":32,
-            "product":"Sansung NoteBook 9 Pen",
+            "product":"Samsung NoteBook 9 Pen",
             "image":"https://m.media-amazon.com/images/I/81Pe45Ud7wL._AC_SL1500_.jpg",
             "price":2000
         },
         {
             "id":33,
-            "product":"Sansung NoteBook Project:'Atenea'",
+            "product":"Samsung NoteBook",
             "image":"https://simplecore.intel.com/newsroom-es-lar/wp-content/uploads/sites/15/2019/10/Samsung-Galaxy-Book-Ion-2s-1000x500_c.jpg",
             "price":2200
         },
         {
             "id":34,
-            "product":"Sansung NoteBook 7 Spin",
+            "product":"Samsung NoteBook 7 Spin",
             "image":"https://img.global.news.samsung.com/pe/wp-content/uploads/2018/05/224-1024x683.jpg",
             "price":1700
         },
         {
             "id":35,
-            "product":"Sansung NP300E4X-AO2VE",
+            "product":"Samsung NP300E4X",
             "image":"http://cdn3.volusion.com/gaayk.adfrh/v/vspfiles/photos/SAM-NP300E4X-A02VE-2.jpg?v-cache=1607602361",
             "price":1300
         },
         {
             "id":36,
-            "product":"Sansung NoteBook Jestereo",
+            "product":"Samsung NoteBook",
             "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/pro_59050831_1-500x500.jpg",
             "price":1500
         },
         {
             "id":37,
-            "product":"Sansung NoteBook 9 Pro",
+            "product":"Samsung NoteBook 9 Pro",
             "image":"https://847395.smushcdn.com/1790738/wp-content/uploads/2019/03/Screenshot_110.png?lossy=0&strip=1&webp=1",
             "price":2400
         },
         {
             "id":38,
-            "product":"Sansung Tab S6 Li",
+            "product":"Samsung Tab S6 Li",
             "image":"https://exitocol.vtexassets.com/arquivos/ids/4219540/vidrio-templado-para-tablet-samsung-galaxy-tab-s6-lite-p610.jpg?v=637366429777830000",
             "price":1600
         },
         {
             "id":39,
-            "product":"Sansung Tab S8",
+            "product":"Samsung Tab S8",
             "image":"https://cdn.mos.cms.futurecdn.net/YzfftyaGWkGdhfKzt4pGP3.jpg",
             "price":1900
         },
         {
             "id":40,
-            "product":"Sansung Tab S7",
+            "product":"Samsung Tab S7",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8H8tmSPuHiNOHkgJ7zGSM5sFJB_iO8q8Wow&usqp=CAU",
             "price":1790
         }
