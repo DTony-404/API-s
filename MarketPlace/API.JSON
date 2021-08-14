@@ -4,122 +4,142 @@
             "id":1,
             "product":"MacBook Air - Apple 2021",
             "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-og-202011?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1604278672000",
-            "price":3000
+            "price":3000,
+            "Description": "The 2021 MacBook Air will likely feature specs similar to the 2020 model. That includes 8GB of RAM, a 256 or 512 GB SSD, a Retina display with True Tone, Magic Keyboard, Touch ID, and two USB 4.0 ports."
         },
         {
             "id":2,
             "product":"MacBook Air 2020",
             "image":"https://www.notebookcheck.org/fileadmin/Notebooks/Apple/MacBook_Air_2020_i3/IMG_8046.JPG",
-            "price":2500
+            "price":2500,
+            "Description": "Apple MacBook Air 2020 is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i3 processor and it comes with 8GB of RAM. The Apple MacBook Air 2020 packs 256GB of SSD storage. Graphics are powered by Integrated Graphics Processor."
         },
         {
             "id":3,
             "product":"iMac 2020",
             "image":"https://www.profesionalreview.com/wp-content/uploads/2020/07/iMac-2020-la-nueva-generaci%C3%B3n-Mac-utiliza-una-CPU-i9-10910.jpg",
-            "price":3500
+            "price":3500,
+            "Description": "Apple MacBook Air 2020 is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i3 processor and it comes with 8GB of RAM. The Apple MacBook Air 2020 packs 256GB of SSD storage. Graphics are powered by Integrated Graphics Processor."
         },
         {
             "id":4,
             "product":"iPad Pro 2020",
             "image":"https://i.blogs.es/7dd28a/ipad-pro/1366_2000.jpg",
-            "price":1500
+            "price":1500,
+            "Description": "The 11-inch iPad Pro continues to feature the same LED 'Liquid Retina Display' as the 2020 model. The 11-inch iPad Pro features a resolution of 2388 x 1668 with 264 pixels per inch. The display can deliver up to 600 nits brightness with just 1.8 percent reflectivity."
         },
         {
             "id":5,
             "product":"iPad Pro 2019",
             "image":"https://pictures.supercompdigital.com/gr_tablet-apple-ipad-2020-102-6gb-32gb-wi_241320_0.jpg",
-            "price":1000
+            "price":1000,
+            "Description": "The Apple iPad Pro is a 12.9-inch touch screen tablet PC that is larger and offers higher resolution than Apple's other iPad models. The iPad Pro was scheduled to debut in November 2015, running the iOS 9 operating system."
         },
         {
             "id":6,
             "product":"iPad Pro 2021",
             "image":"https://mynexttablet.com/wp-content/uploads/2020/04/apple-ipad-pro-2020-test.jpg",
-            "price":2500
+            "price":2500,
+            "Description": "The 2021 iPad Pro has been announced during Apple's 'Spring Loaded' event with a new display technology in the 12.9-inch model, camera improvements, better processor, and more."
         },
         {
             "id":7,
             "product":"iPhone 12 mini",
             "image":"https://falabella.scene7.com/is/image/FalabellaCO/9713542_1?wid=800&hei=800&qlt=70",
-            "price":800
+            "price":800,
+            "Description": "The iPhone 12 Mini comes in 4 model numbers, which are A2176, A2398, A2399, and A2400. Apple released different model numbers for different markets and their cellular bands are different as well"
         },
         {
             "id":8,
             "product":"iPhone SE",
             "image":"https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2020/04/15/15869638323972.jpg",
-            "price":800
+            "price":800,
+            "Description": "The Apple iPhone SE (2020) is the update to Apple's cheapest smartphone. ... The iPhone SE 2020 retains the fingerprint reader on the home button, has stereo speakers, a battery with support for fast charging, is resistant to dust and water with IP67 certification and runs iOS 13."
         },
         {
             "id":9,
             "product":"iPhone 11",
             "image":"https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-product-iphone-11-red-back.png",
-            "price":800
+            "price":800,
+            "Description": "The iPhone 11 succeeds the iPhone XR, and it features a 6.1-inch LCD display that Apple calls a 'Liquid Retina HD Display.' It features a 1792 x 828 resolution at 326ppi, a 1400:1 contrast ratio, 625 nits max brightness, True Tone support for adjusting the white balance to the ambient lighting, and wide color support"
         },
         {
             "id":10,
             "product":"iPhone 8 Plus",
             "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone8plus-gold-201810?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1542226476548",
-            "price":500
+            "price":500,
+            "Description": "The available space is less and depends on many factors. A standard configuration - with iOS and apps pre-installed - requires approximately 11-14 GB of space, depending on the model and settings. Pre-installed apps take up about 4GB of space, but can be uninstalled and restored at any time. Capacity depends on software version and may vary by device."
         },
         {
             "id":11,
             "product":"iPhone XR",
             "image":"https://lh3.googleusercontent.com/proxy/45RwTzwKm4p1E80y7Wfa3gF-G7DPdYMUvxw2_hrtnS2tr6ROLouFL61khp1YvEbjYiW4xBEwLLcVxsTUehjxFp7Hxn7Cru8QlyBQ4R7bSB36aGGx1xx6m7W9YbA5-kjbGnVndRyLDs-jVdIQay2BzS4",
-            "price":500
+            "price":500,
+            "Description": "The Apple iPhone XR is a smartphone that was tested with the iOS 12.0. 1 operating system. This model weighs 6.9 ounces, has a 6.1 inch display, 12-megapixel main camera, and 7-megapixel selfie camera. It comes with 3GB of RAM."
         },
         {
             "id":12,
             "product":"AirPods 3",
             "image":"https://d500.epimg.net/cincodias/imagenes/2021/06/30/gadgets/1625067158_293173_1625067396_noticia_normal.jpg",
-            "price":90
+            "price":90,
+            "Description": "The 'AirPods 3' are anticipated to launch in 2021 with more features and a smaller design similar to the AirPods Pro. The new generation could improve battery life, add water resistance, and gain changeable ear-tips."
         },
         {
             "id":13,
             "product":"AirPods Max",
             "image":"https://m.media-amazon.com/images/I/81IfN-Rw8uL._AC_SL1500_.jpg",
-            "price":150
+            "price":150,
+            "Description": "AirPods Max are Apple's high-end wire-free over-ear headphones, featuring Active Noise Cancellation, Transparency Mode, Adaptive EQ, and spatial audio, in a range of color options. Announced in December 2020, the AirPods Max are still a new product in Apple's lineup."
         },
         {
             "id":14,
             "product":"AirPods",
             "image":"https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iproup.com/assets/jpg/2020/01/8060.jpg?7.1.0",
-            "price":40
+            "price":40,
+            "Description": ""
         },
         {
             "id":15,
             "product":"Apple Watch Series 3",
             "image":"https://www.apple.com/v/apple-watch-series-3/r/images/site/meta/gps-lte/og__fbb5ued3v9qy.png?202104170815",
-            "price":120
+            "price":120,
+            "Description": ""
         },
         {
             "id":16,
             "product":"Apple Watch Series 2",
             "image":"https://i.blogs.es/9110e3/watch_series_3_incoming_two-wrap/1366_2000.jpg",
-            "price":80
+            "price":80,
+            "Description": ""
         },
         {
             "id":17,
             "product":"Apple Watch Series 6",
             "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-6s-202107?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1627330096000",
-            "price":270
+            "price":270,
+            "Description": ""
         },
         {
             "id":18,
             "product":"Apple Watch Series 5",
             "image":"https://i.blogs.es/9305fc/1366_2000-5/840_560.jpg",
-            "price":250
+            "price":250,
+            "Description": "AirPods will forever change the way you use headphones. Whenever you pull your AirPods out of the charging case, they instantly turn on and connect to your iPhone, Apple Watch, iPad, or Mac. ... Driven by the custom Apple W1 chip, AirPods use optical sensors and a motion accelerometer to detect when they're in your ears."
         },
         {
             "id":19,
             "product":"iPad Mini",
             "image":"https://www.sanborns.com.mx/imagenes-sanborns-ii/1200/190199062825.jpg",
-            "price":700
+            "price":700,
+            "Description": "The iPad mini is Apple's smallest tablet with a 2048 x 1536 7.9-inch Retina display. Compared to the prior iPad mini, the updated version has new display technology like True Tone for adjusting the white balance to match the ambient lighting of the room and wide color support for more vivid, true-to-life colors."
         }
         ,
         {
             "id":20,
             "product":"Mac mini",
             "image":"https://i.blogs.es/57e6bd/mac_mini_m1/450_1000.jpg",
-            "price":2000
+            "price":2000,
+            "Description": "Apple's Mac mini is exactly that: a mini Mac. It's a small, portable desktop computer that can turn any screen into a Mac-powered smart computer. A computer that can be used for digital signage."
         }
     ],
     "Sansung":[
@@ -127,121 +147,141 @@
             "id":21,
             "product":"Samsung Note 20 Ultra",
             "image":"https://m.media-amazon.com/images/I/81AT+Flc+EL._AC_SX679_.jpg",
-            "price":700
+            "price":700,
+            "Description": ""
         },
         {
             "id":22,
             "product":"Samsung galaxy S21",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7Wp1SAA7eKCnZNEGpskg7MGMmJnicdA-zYsqxB6E1alL5MGTezSedEVJ4guQKwPg7OM&usqp=CAU",
-            "price":900
+            "price":900,
+            "Description": ""
         },
         {
             "id":23,
             "product":"Samsung A10S",
             "image":"http://imagenes.deltron.com.pe/images/productos/on-line/items/large/tc/sm/tcsma107tblk_1.jpg",
-            "price":800
+            "price":800,
+            "Description": ""
         },
         {
             "id":24,
             "product":"Samsung galaxy A31",
             "image":"https://waritech.com/4501-large_default/smartphone-samsung-galaxy-a32-6-4-1080x2400-android-11-lte-dual-sim-desbloqueado.jpg",
-            "price":700
+            "price":700,
+            "Description": ""
         },
         {
             "id":25,
             "product":"Samsung galaxy A51",
             "image":"https://www.teamequipalia.es/4788-thickbox_default/samsung-galaxy-a51.jpg",
-            "price":750
+            "price":750,
+            "Description": ""
         },
         {
             "id":26,
             "product":"Samsung galaxy A71",
             "image":"https://m.media-amazon.com/images/I/418BjeZCuCL.jpg",
-            "price":720
+            "price":720,
+            "Description": ""
         },
         {
             "id":27,
             "product":"Samsung galaxy S20 FE",
             "image":"https://depor.com/resizer/UnHTM4JSIKQiz8wwTToPh3eA7cg=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KNNA5XUPCRFYBKQX7GF7MYNURE.jpg",
-            "price":870
+            "price":870,
+            "Description": ""
         },
         {
             "id":28,
             "product":"Samsung galaxy A30S",
             "image":"https://resources.sears.com.mx/medios-plazavip/s2/10944/1348518/5e6becb35145c-galaxya30sblancopresentacion_1-1600x1600.jpg",
-            "price":750
+            "price":750,
+            "Description": ""
         },
         {
             "id":29,
             "product":"Samsung galaxy Z Fold 3",
             "image":"https://d500.epimg.net/cincodias/imagenes/2021/07/26/smartphones/1627301478_436427_1627302174_noticia_normal.jpg",
-            "price":1290
+            "price":1290,
+            "Description": ""
         },
         {
             "id":30,
             "product":"Samsung galaxy Z Fold 2",
             "image":"https://depor.com/resizer/vvdx0qisFHRE3VU0rVbXp_6JNLA=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7HK4QYKZKNAY3LZZTKSN2CAZ7M.jpg",
-            "price":1100
+            "price":1100,
+            "Description": ""
         },
         {
             "id":31,
             "product":"Samsung galaxy Z Fold 1",
             "image":"https://i2.wp.com/hipertextual.com/wp-content/uploads/2019/09/hipertextual-probamos-nueva-mejorada-version-samsung-galaxy-fold-mejores-acabados-mismas-sensaciones-2019611246.jpg?fit=1200%2C800&ssl=1",
-            "price":900
+            "price":900,
+            "Description": ""
         },
         {
             "id":32,
             "product":"Samsung NoteBook 9 Pen",
             "image":"https://m.media-amazon.com/images/I/81Pe45Ud7wL._AC_SL1500_.jpg",
-            "price":2000
+            "price":2000,
+            "Description": ""
         },
         {
             "id":33,
             "product":"Samsung NoteBook",
             "image":"https://simplecore.intel.com/newsroom-es-lar/wp-content/uploads/sites/15/2019/10/Samsung-Galaxy-Book-Ion-2s-1000x500_c.jpg",
-            "price":2200
+            "price":2200,
+            "Description": ""
         },
         {
             "id":34,
             "product":"Samsung NoteBook 7 Spin",
             "image":"https://img.global.news.samsung.com/pe/wp-content/uploads/2018/05/224-1024x683.jpg",
-            "price":1700
+            "price":1700,
+            "Description": ""
         },
         {
             "id":35,
             "product":"Samsung NP300E4X",
             "image":"http://cdn3.volusion.com/gaayk.adfrh/v/vspfiles/photos/SAM-NP300E4X-A02VE-2.jpg?v-cache=1607602361",
-            "price":1300
+            "price":1300,
+            "Description": ""
         },
         {
             "id":36,
             "product":"Samsung NoteBook",
             "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/pro_59050831_1-500x500.jpg",
-            "price":1500
+            "price":1500,
+            "Description": ""
         },
         {
             "id":37,
             "product":"Samsung NoteBook 9 Pro",
             "image":"https://847395.smushcdn.com/1790738/wp-content/uploads/2019/03/Screenshot_110.png?lossy=0&strip=1&webp=1",
-            "price":2400
+            "price":2400,
+            "Description": ""
         },
         {
             "id":38,
             "product":"Samsung Tab S6 Li",
             "image":"https://exitocol.vtexassets.com/arquivos/ids/4219540/vidrio-templado-para-tablet-samsung-galaxy-tab-s6-lite-p610.jpg?v=637366429777830000",
-            "price":1600
+            "price":1600,
+            "Description": ""
         },
         {
             "id":39,
             "product":"Samsung Tab S8",
             "image":"https://cdn.mos.cms.futurecdn.net/YzfftyaGWkGdhfKzt4pGP3.jpg",
-            "price":1900
+            "price":1900,
+            "Description": ""
         },
         {
             "id":40,
             "product":"Samsung Tab S7",
             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8H8tmSPuHiNOHkgJ7zGSM5sFJB_iO8q8Wow&usqp=CAU",
-            "price":1790
+            "price":1790,
+            "Description": ""
         }
     ]
 }
