@@ -1,0 +1,74 @@
+{
+    "banderas":[{
+        "dolar_estadounidense": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png",
+        "euro": "https://europa.eu/european-union/sites/default/files/docs/body/flag_yellow_high.jpg",
+        "peso_colombiano": "https://www.viajescoaplaza.com.mx/wp-content/uploads/2020/05/bandera-colombia.jpg",
+        "peso_mexicano": "https://www.caracteristicas.co/wp-content/uploads/2017/05/bandera-de-mexico-e1567990939713.jpg",
+        "peso_argentino": "https://tn.com.ar/resizer/iQ2rSke_ifikO_GvFslnD09S6b0=/767x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/3UADUTXDQACWOJLPF3VIITYBFM.jpg",
+        "yen": "https://www.sitographics.com/enciclog/banderas/asia/image_2012/Japon.gif",
+        "libra_esterlina": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLpYjcOvlv9xuqDuADuLkV_frLAVH5Z1FCEIUulGQzI0SqIiZO6tq55N9sWPTnmSgYU0&usqp=CAU"
+    }],
+    "dolar":[{
+        "dolar_estadounidense": 1,
+        "euro": 0.85,
+        "peso_colombiano": 3842.20,
+        "peso_mexicano": 19.91,
+        "peso_argentino": 97.03,
+        "yen": 109.22,
+        "libra_esterlina": 1.18
+    }],
+    "euro":[{
+        "dolar_estadounidense": 1.18,
+        "euro": 1,
+        "peso_colombiano": 4524.73,
+        "peso_mexicano":23.44,
+        "peso_argentino": 114.27,
+        "yen": 128.64,
+        "libra_esterlina": 0.85
+    }],
+    "peso_colombiano":[{
+        "dolar_estadounidense": 0.00026,
+        "euro": 0.00022,
+        "peso_colombiano": 1,
+        "peso_mexicano": 0.0052,
+        "peso_argentino": 0.0088,
+        "yen": 1.13,
+        "libra_esterlina": 0.00019
+    }],
+    "peso_mexicano":[{
+        "dolar_estadounidense": 0.050,
+        "euro": 0.043,
+        "peso_colombiano": 192.98,
+        "peso_mexicano": 1,
+        "peso_argentino": 4.87,
+        "yen": 5.49,
+        "libra_esterlina": 0.036
+    }],
+    "peso_argentino":[{
+        "dolar_estadounidense": 0.010,
+        "euro": 0.0088,
+        "peso_colombiano": 39.60,
+        "peso_mexicano": 0.21,
+        "peso_argentino": 1,
+        "yen": 1.13,
+        "libra_esterlina": 0.0075
+    }],
+    "yen":[{
+        "dolar_estadounidense": 0.0092,
+        "euro": 0.0078,
+        "peso_colombiano": 0,
+        "peso_mexicano": 0.18,
+        "peso_argentino": 0,
+        "yen": 1,
+        "libra_esterlina": 0.0066
+    }],
+    "libra_esterlina":[{
+        "dolar_estadounidense": 1.38,
+        "euro": 1.17,
+        "peso_colombiano": 5312.13,
+        "peso_mexicano": 27.54,
+        "peso_argentino": 134.15,
+        "yen": 151.06,
+        "libra_esterlina": 1
+    }]
+}
