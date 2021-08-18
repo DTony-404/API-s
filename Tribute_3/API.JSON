@@ -1,5 +1,5 @@
 {
-    "Stan Lee":{
+    "Stan_Lee":{
         "name": "Stanley Martin Lieber",
         "alias": "Stan lee",
         "Description":{
@@ -20,7 +20,7 @@
             "3": "https://cdn3.movieweb.com/i/article/b62dfA19BwfnKbsUapXMMdL3IvkggW/1200:100/Captain-Marvel-Stan-Lee-Cameo-Mallrats.jpg"
         }
     },
-    "Steve Jobs":{
+    "Steve_Jobs":{
         "name": "Steven Paul Jobs",
         "alias": "Steve Jobs",
         "Description":{
