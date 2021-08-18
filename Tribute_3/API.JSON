@@ -3,16 +3,35 @@
         "name": "Stanley Martin Lieber",
         "alias": "Stan lee",
         "Description":{
-            "1": "1922 -- Born on December 22, 1922 in Manhattan New York",
-            "2": "1939 I finish high school at 16 years old",
-            "3": "1945 He served in the Second World War, He entered the United States Army in 1942, being part of the Signal Corps.",
-            "4": "1947 He married Joan Clayton. He had 2 daughters: Joan Celia 'JC' and Jan who died at 3 days old.",
-            "5": "1953 He worked at Atlas Comics (Comics Publishing House), Successor of Timely Comics, founded by Martin Goodman.",
-            "6": "1960 He became famous and head of Marvel. I believe most of the classic characters of the publisher, this success made Marvel become the most important publisher of the moment.",
-            "7": "1970 I change the name to Marvel Comics. It is a publisher of American comic books.",
-            "8": "2011 Got the star of fame. In 2011, at 88 years old, she was given a star on the important Hollywood Walk of Fame.",
-            "9": "2018 November 12 Death Stan Lee died at the age of 95 at Cedars-Sinai Medical Center in Los Angeles, California."
-        },
+            "id": {
+            "1": {
+                "1922": "Born on December 22, 1922 in Manhattan New York"
+            },
+            "2": {
+                "1939": "I finish high school at 16 years old"
+            },
+            "3": {
+                "1945": "He served in the Second World War, He entered the United States Army in 1942, being part of the Signal Corps."
+            },
+            "4": {
+                "1947": "He married Joan Clayton. He had 2 daughters: Joan Celia 'JC' and Jan who died at 3 days old."
+            },
+            "5": {
+                "1953": "He worked at Atlas Comics (Comics Publishing House), Successor of Timely Comics, founded by Martin Goodman."
+            },
+            "6": {
+                "1960": "He became famous and head of Marvel. I believe most of the classic characters of the publisher, this success made Marvel become the most important publisher of the moment."
+            },
+            "7": {
+                "1970": "I change the name to Marvel Comics. It is a publisher of American comic books."
+            },
+            "8": {
+                "2011": "Got the star of fame. In 2011, at 88 years old, she was given a star on the important Hollywood Walk of Fame."
+            },
+            "9": {
+                "2018": "November 12 Death Stan Lee died at the age of 95 at Cedars-Sinai Medical Center in Los Angeles, California."
+            }
+        }},
         "image_Top": "https://spoiler.bolavip.com/__export/1620913391481/sites/bolavip/img/2021/05/13/stan_lee_5_crop1620913349382.jpg_423682103.jpg",
         "image_Row": {
             "1": "https://es.web.img2.acsta.net/newsv7/20/12/29/12/54/0703197.jpg",
